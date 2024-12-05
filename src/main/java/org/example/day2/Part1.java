@@ -47,7 +47,7 @@ public class Part1 {
 
         }
 
-        System.out.println("The solution is: " + safeReportCounter);
+        System.out.println("The solution for part 1 is: " + safeReportCounter);
     }
 
     public boolean CheckValid(String[] levels){
