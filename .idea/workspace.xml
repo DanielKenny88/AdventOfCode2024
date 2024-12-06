@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0686e566-b274-4267-87a8-432eb2e79fea" name="Changes" comment="Day 1 Part 1 done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day4/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day4/sampleInput.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -58,7 +61,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "day3",
+    "git-widget-placeholder": "day4",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/danielkenny/git/AdventOfCode2024/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -171,6 +174,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/day3/Part2.java</url>
           <line>22</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/day4/Part1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
